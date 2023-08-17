@@ -1,2 +1,6 @@
 # b-nft
 bonded NFT
+
+ETH wallet: 0xC634Ed95831acB0429084e7B2456508651d8BF71
+
+Tx HASH = https://etherscan.io/nft/0xb49e4420eA6e35F98060Cd133842DbeA9c27e479/1016
